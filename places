@@ -1,0 +1,101 @@
+;;; -*- coding: utf-8 -*-
+(("/home/babel/"
+  (dired-filename . "/home/babel/master"))
+ ("/home/babel/master/"
+  (dired-filename . "/home/babel/master/spacemacs-master"))
+ ("/home/babel/master/spacemacs-master/layers/+themes/themes-megapack/"
+  (dired-filename . "/home/babel/master/spacemacs-master/layers/+themes/themes-megapack/.."))
+ ("/home/babel/master/spacemacs-master/layers/+themes/colors/"
+  (dired-filename . "/home/babel/master/spacemacs-master/layers/+themes/colors/.."))
+ ("/home/babel/master/spacemacs-master/layers/+themes/"
+  (dired-filename . "/home/babel/master/spacemacs-master/layers/+themes/.."))
+ ("/home/babel/master/spacemacs-master/layers/"
+  (dired-filename . "/home/babel/master/spacemacs-master/layers/.."))
+ ("/home/babel/master/spacemacs-master/"
+  (dired-filename . "/home/babel/master/spacemacs-master/core"))
+ ("/home/babel/master/spacemacs-master/core/"
+  (dired-filename . "/home/babel/master/spacemacs-master/core/core-themes-support.el"))
+ ("/home/babel/master/spacemacs-master/core/core-themes-support.el" . 7901)
+ ("/home/babel/.emacs.d/core/"
+  (dired-filename . "/home/babel/.emacs.d/core/.."))
+ ("/home/babel/.emacs.d/"
+  (dired-filename . "/home/babel/.emacs.d/init.el"))
+ ("/home/babel/.emacs.d/init.el" . 691)
+ ("/home/babel/.emacs.d/core/core-emacs.el" . 2017)
+ ("/home/babel/.emacs.d/core/core-load-paths.el" . 334)
+ ("/home/babel/master/spacemacs-master/layers/+source-control/git/packages.el" . 728)
+ ("/home/babel/master/spacemacs-master/layers/+themes/colors/funcs.el" . 4050)
+ ("/home/babel/master/spacemacs-master/layers/+themes/colors/packages.el" . 4947)
+ ("/home/babel/master/spacemacs-master/layers/+themes/colors/config.el" . 68)
+ ("/home/babel/master/spacemacs-master/layers/+themes/themes-megapack/packages.el" . 832)
+ ("/home/babel/master/spacemacs-master/core/core-display-init.el" . 110)
+ ("/home/babel/master/spacemacs-master/core/core-use-package-ext.el" . 279)
+ ("/home/babel/master/spacemacs-master/core/core-spacemacs.el" . 573)
+ ("/home/babel/.emacs.d/places" . 3774)
+ ("/home/babel/.emacs.d/elpa/"
+  (dired-filename . "/home/babel/.emacs.d/elpa/solarized-theme-20161009.838"))
+ ("/home/babel/.emacs.d/elpa/solarized-theme-20161009.838/"
+  (dired-filename . "/home/babel/.emacs.d/elpa/solarized-theme-20161009.838/solarized.el"))
+ ("/home/babel/.emacs.d/elpa/solarized-theme-20161009.838/solarized.el" . 4304)
+ ("/home/babel/t/"
+  (dired-filename . "/home/babel/t/prelude"))
+ ("/home/babel/t/prelude/"
+  (dired-filename . "/home/babel/t/prelude/CONTRIBUTING.md"))
+ ("/home/babel/Downloads/"
+  (dired-filename . "/home/babel/Downloads/2016-09-23-raspbian-jessie-lite.img"))
+ ("/home/babel/.dropbox/"
+  (dired-filename . "/home/babel/.dropbox/command_socket"))
+ ("/home/babel/.cache/"
+  (dired-filename . "/home/babel/.cache/.."))
+ ("/home/babel/.viminfo" . 11364)
+ ("/home/babel/.profile" . 676)
+ ("/home/babel/.cache/event-sound-cache.tdb.9e9e29a012197b5289610c2057080608.x86_64-pc-linux-gnu" . 3712)
+ ("/home/babel/study/"
+  (dired-filename . "/home/babel/study/linux-4.8.2"))
+ ("/home/babel/Dropbox/"
+  (dired-filename . "/home/babel/Dropbox/앱"))
+ ("/home/babel/work/"
+  (dired-filename . "/home/babel/work/odroid-x"))
+ ("/home/babel/.emacs.d/elpa/alect-themes-20161022.1101/alect-themes-autoloads.el" . 1062)
+ ("/usr/local/share/emacs/24.5/lisp/simple.el.gz" . 65381)
+ ("/home/babel/.emacs.d/elpa/undo-tree-20161012.701/undo-tree-autoloads.el" . 1650)
+ ("/home/babel/work/odroid-x/"
+  (dired-filename . "/home/babel/work/odroid-x/boot"))
+ ("/home/babel/work/odroid-x/boot/"
+  (dired-filename . "/home/babel/work/odroid-x/boot/u-boot"))
+ ("/home/babel/work/odroid-x/boot/u-boot/"
+  (dired-filename . "/home/babel/work/odroid-x/boot/u-boot/api"))
+ ("/home/babel/work/odroid-x/boot/u-boot/api/"
+  (dired-filename . "/home/babel/work/odroid-x/boot/u-boot/api/api.c"))
+ ("/home/babel/work/odroid-x/boot/u-boot/api/api.c" . 1952)
+ ("/home/babel/work/odroid-x/boot/u-boot/arch/arm/lib/reset.c" . 2)
+ ("/home/babel/webkit/"
+  (dired-filename . "/home/babel/webkit/deepin-emacs"))
+ ("/home/babel/.emacs.d/elpa/hideshowvis-20130824.500/hideshowvis-autoloads.el" . 1045)
+ ("/home/babel/osx/OS X El Capitan/"
+  (dired-filename . "/home/babel/osx/OS X El Capitan/cinnamon"))
+ ("/home/babel/osx/"
+  (dired-filename . "/home/babel/osx/.."))
+ ("/home/babel/work/odroid-x/boot/u-boot-odroid/"
+  (dired-filename . "/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot"))
+ ("/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/"
+  (dired-filename . "/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/arch"))
+ ("/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/arch/"
+  (dired-filename . "/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/arch/arm"))
+ ("/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/arch/arm/"
+  (dired-filename . "/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/arch/arm/cpu"))
+ ("/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/arch/arm/cpu/"
+  (dired-filename . "/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/arch/arm/cpu/arm1136"))
+ ("/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/arch/arm/cpu/arm1136/"
+  (dired-filename . "/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/arch/arm/cpu/arm1136/cpu.c"))
+ ("/home/babel/work/odroid-x/boot/u-boot-odroid/u-boot/arch/arm/cpu/arm1136/cpu.c" . 1694)
+ ("/home/babel/meta-openembedded/"
+  (dired-filename . "/home/babel/meta-openembedded/contrib"))
+ ("/home/babel/.emacs.d/elpa/monokai-theme-20161116.1128/monokai-theme-autoloads.el" . 466)
+ ("/home/babel/work/build/"
+  (dired-filename . "/home/babel/work/build/.."))
+ ("/home/babel/.emacs.d/elpa/elpy-20161125.56/elpy-autoloads.el" . 1062)
+ ("/home/babel/.emacs.d/elpa/company-20161126.1629/company-autoloads.el" . 8773)
+ ("/home/babel/.emacs.d/elpa/find-file-in-project-20161202.2205/find-file-in-project-autoloads.el" . 5907)
+ ("/home/babel/.emacs.d/elpa/highlight-indentation-20161012.209/highlight-indentation-autoloads.el" . 946)
+ ("/home/babel/.emacs.d/elpa/pyvenv-20160527.442/pyvenv-autoloads.el" . 1888))

@@ -1,0 +1,29 @@
+
+;; ----- smex-history -----
+(
+ ansi-term
+ toggle-frame-fullscreen
+ byte-recompile-directory
+ rgrep
+ menu-bar-mode
+ load-theme
+ list-packages
+)
+
+;; ----- smex-data -----
+(
+ (toggle-read-only . 1)
+ (pr-toggle-file-duplex . 1)
+ (toggle-frame-fullscreen . 24)
+ (load-theme . 6)
+ (ansi-term . 5)
+ (anything-c-grep-run-default-action . 1)
+ (list-packages . 7)
+ (hideshowvis-enable . 4)
+ (hideshowvis-symbols . 4)
+ (undo-tree-mode . 1)
+ (undo-tree-visualize . 1)
+ (menu-bar-mode . 3)
+ (rgrep . 1)
+ (byte-recompile-directory . 2)
+)
