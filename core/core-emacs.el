@@ -13,14 +13,14 @@
 
 ;;(require 'subr-x nil 'noerror)
 ;;(require 'page-break-lines)
-;;(require 'core-debug)
+(require 'core-debug)
 ;;(require 'core-command-line)
 ;;(require 'core-dotspacemacs)
 ;;(require 'core-release-management)
 ;;(require 'core-auto-completion)
 ;;(require 'core-jump)
 ;;(require 'core-display-init)
-;;--->(require 'core-themes-support)
+(require 'core-themes-support)
 ;;(require 'core-fonts-support)
 ;;(require 'core-spacemacs-buffer)
 ;;--->(require 'core-keybindings)
@@ -65,7 +65,7 @@ the final step of executing code in `emacs-startup-hook'.")
   ;; silence ad-handle-definition about advised functions getting redefined
   (setq ad-redefinition-action 'accept)
   ;; this is for a smoother UX at startup (i.e. less graphical glitches)
-  (hidden-mode-line-mode)
+;;  (hidden-mode-line-mode)
   (spacemacs//removes-gui-elements)
   ;; explicitly set the prefered coding systems to avoid annoying prompt
   ;; from emacs (especially on Microsoft Windows)
@@ -162,10 +162,6 @@ the final step of executing code in `emacs-startup-hook'.")
   (interactive)
   (let ((msg (format "Spacemacs v.%s" spacemacs-version)))
     (message msg) (kill-new msg)))
-
-(defun display-startup-echo-area-message ()
-  "Change the default welcome message of minibuffer to another one."
-  (message "Spacemacs is ready."))
 
 (defun spacemacs/defer-until-after-user-config (func)
   "Call FUNC if dotspacemacs/user-config has been called. Otherwise,
